@@ -4,7 +4,7 @@
 - Counting the digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/2)
 - Check whether the given number is duck number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/3)
 - Check whether the given number is Harshad number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/4)
-- Check whether the given number is Amstrong number or not.
+- Check whether the given number is Amstrong number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/5)
 - Reverse a number.
 - Check whether the number is palindromic number or not.
 - Check whether the number is automorphic number or not.
