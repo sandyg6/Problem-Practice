@@ -1,9 +1,9 @@
 # problem-solving
 
-- Extraction of digits in a number.
-- Counting the digits in a number.
-- Check whether the given number is duck number or not.
-- Check whether the given number is Harshad number or not.
+- Extraction of digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/1)
+- Counting the digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/2)
+- Check whether the given number is duck number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/3)
+- Check whether the given number is Harshad number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/4)
 - Check whether the given number is Amstrong number or not.
 - Reverse a number.
 - Check whether the number is palindromic number or not.
