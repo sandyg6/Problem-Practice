@@ -6,9 +6,8 @@ public class Numbers{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
         int number = sc.nextInt();
-        int rem,count = 0;
+        int count = 0;
         while(number>0){
-            rem = number%10;
             count+=1;
             number/=10;
         }
