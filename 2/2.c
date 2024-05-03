@@ -1,12 +1,13 @@
 #include<stdio.h>
 int main(){
-    int num;
+    int num,count=0;
     printf("Enter a number: ");
     scanf("%d",&num);
-    printf("The extracted digits are:\n");
     while(num>0){
-        printf("%d ",num%10);
+        int r =num%10;
+        count++;
         num/=10;
     }
+    printf("Digit count: %d",count);
     return 0;
 }
