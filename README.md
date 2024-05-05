@@ -6,8 +6,8 @@
 - Check whether the given number is Harshad number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/4)
 - Check whether the given number is Amstrong number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/5)
 - Reverse a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/6)
-- Check whether the number is palindromic number or not.
-- Check whether the number is automorphic number or not.
+- Check whether the number is palindromic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/7)
+- Check whether the number is automorphic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/8)
 - Find maximum and minimum of 2 numbers without using conditional and looping statement.
 - Swap 2 variables without the extra variable.
 - Print AP series using loop and also using formula.
