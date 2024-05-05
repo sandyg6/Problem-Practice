@@ -1,13 +1,16 @@
 # problem-solving
 
-- Extraction of digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/1)
-- Counting the digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/2)
-- Check whether the given number is duck number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/3)
-- Check whether the given number is Harshad number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/4)
-- Check whether the given number is Amstrong number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/5)
-- Reverse a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/6)
-- Check whether the number is palindromic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/7)
-- Check whether the number is automorphic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/8)
+- Extraction of digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/01)
+- Counting the digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/02)
+- Check whether the given number is duck number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/03)
+- Check whether the given number is Harshad number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/04)
+- Check whether the given number is Amstrong number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/05)
+- Reverse a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/06)
+- Check whether the number is palindromic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/07)
+- Check whether the number is automorphic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/08)
+- Check whether the number is prime number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/09)
+- Check whether the number is neon number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/10)
+- Print the following number series [1 3 6 10 15 21 28 36 45 55]. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/11)
 - Find maximum and minimum of 2 numbers without using conditional and looping statement.
 - Swap 2 variables without the extra variable.
 - Print AP series using loop and also using formula.
