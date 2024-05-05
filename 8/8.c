@@ -11,7 +11,7 @@ int main(){
         n/=10;
     }
     for(int i=0;i<lenOfnum;i++){
-        mul *= 10;
+        mul = mul * 10;
     }
     int digitOfSq = sqOfnum % mul;
     if (num == digitOfSq)
