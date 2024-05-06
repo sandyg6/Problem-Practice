@@ -24,4 +24,28 @@
 - Print all the divisor of a number.
 -  Check whether the number is abundant number or not.
 -  Check whether the number is Pronic number or not.
- 
+-  Find GCD and LCM of two numbers.
+-  Print the following pattern
+   ****
+   *  *
+   *  *
+   *  *
+   ****
+-  Print the following pattern
+  *#*#*
+  *#*#*
+  *#*#*
+  *#*#*
+  *#*#*
+-  Print the following pattern
+  11111
+  22222
+  33333
+  44444
+  55555
+-  Print the following pattern
+  *****
+  *****
+  *****
+  *****
+  *****
