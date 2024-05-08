@@ -11,6 +11,7 @@
 - Check whether the number is prime number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/09)
 - Check whether the number is neon number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/10)
 - Print the following number series [1 3 6 10 15 21 28 36 45 55]. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/11)
+- Print all the divisor of a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/12)
 - Find maximum and minimum of 2 numbers without using conditional and looping statement.
 - Swap 2 variables without the extra variable.
 - Print AP series using loop and also using formula.
@@ -21,7 +22,6 @@
 - Factorial of a number using loop.
 - Print odd and even numbers between a range.
 - Stern’s diatomic series: 1 4 2 3 3 2 4 1 for input 4.
-- Print all the divisor of a number.
 -  Check whether the number is abundant number or not.
 -  Check whether the number is Pronic number or not.
 -  Find GCD and LCM of two numbers.
