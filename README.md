@@ -12,8 +12,8 @@
 - Check whether the number is neon number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/10)
 - Print the following number series [1 3 6 10 15 21 28 36 45 55]. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/11)
 - Print all the divisor of a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/12)
-- Find the second largest element in an array without sorting.
-- Print a hollow diamond.
+- Find the second largest element in an array without sorting. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/13)
+- Print a hollow diamond. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/14)
 - Find maximum and minimum of 2 numbers without using conditional and looping statement.
 - Swap 2 variables without the extra variable.
 - Print AP series using loop and also using formula.
