@@ -15,7 +15,7 @@
 - Find the second largest element in an array without sorting. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/13)
 - Print a hollow diamond. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/14)
 - Find maximum and minimum of 2 numbers without using conditional and looping statement. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/15)
-- Swap 2 variables without the extra variable.
+- Swap 2 variables without the extra variable. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/16)
 - Print AP series using loop and also using formula.
 - Sum of AP series using loop and also using formula.
 - Sum of n natural number using loop and also using formula.
