@@ -16,8 +16,8 @@
 - Print a hollow diamond. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/14)
 - Find maximum and minimum of 2 numbers without using conditional and looping statement. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/15)
 - Swap 2 variables without the extra variable. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/16)
-- Print AP series using loop and also using formula. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/17)
-- Sum of AP series using loop and also using formula.
+- Print AP series. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/17)
+- Sum of AP series. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/18)
 - Sum of n natural number using loop and also using formula.
 - Sum of n^2 natural number using loop and also using formula.
 - Sum of numbers in a range using loop and also using formula.
