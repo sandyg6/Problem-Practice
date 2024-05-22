@@ -1,8 +1,5 @@
 # problem-solving
 
-
-
-- Sum of n^2 natural number using loop and also using formula.
 - Sum of numbers in a range using loop and also using formula.
 - Factorial of a number using loop.
 - Print odd and even numbers between a range.
