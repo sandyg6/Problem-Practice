@@ -1,23 +1,6 @@
 # problem-solving
 
-- Extraction of digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/01)
-- Counting the digits in a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/02)
-- Check whether the given number is duck number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/03)
-- Check whether the given number is Harshad number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/04)
-- Check whether the given number is Amstrong number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/05)
-- Reverse a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/06)
-- Check whether the number is palindromic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/07)
-- Check whether the number is automorphic number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/08)
-- Check whether the number is prime number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/09)
-- Check whether the number is neon number or not. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/10)
-- Print the following number series [1 3 6 10 15 21 28 36 45 55]. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/11)
-- Print all the divisor of a number. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/12)
-- Find the second largest element in an array without sorting. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/13)
-- Print a hollow diamond. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/14)
-- Find maximum and minimum of 2 numbers without using conditional and looping statement. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/15)
-- Swap 2 variables without the extra variable. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/16)
-- Print AP series. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/17)
-- Sum of AP series. [(Code)](https://github.com/sandyg6/problem-solving/tree/main/18)
+
 - Sum of n natural number using loop and also using formula.
 - Sum of n^2 natural number using loop and also using formula.
 - Sum of numbers in a range using loop and also using formula.
