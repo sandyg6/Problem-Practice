@@ -11,5 +11,6 @@ public class DivisorsOfNaturalNumber {
             System.out.print(i+" ");
          }
       }
+      sc.close();
    }
 }

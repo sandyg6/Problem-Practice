@@ -17,6 +17,6 @@ class MaxMinNum {
         }
         System.out.println("The maximum number is "+max);
         System.out.println("The minimum number is "+min);
-        
+        sc.close();
     }
 }

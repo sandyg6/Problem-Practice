@@ -10,6 +10,7 @@ public class Series {
             result+=i;
             System.out.print(result+" ");
         }
+        sc.close();
     }
 }
 
