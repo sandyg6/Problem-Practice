@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbundantNumber",
+            "request": "launch",
+            "mainClass": "AbundantNumber",
+            "projectName": "problem-solving_bddf01ec"
+        },
+        {
+            "type": "java",
             "name": "SternSeries",
             "request": "launch",
             "mainClass": "SternSeries",
