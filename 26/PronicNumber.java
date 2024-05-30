@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.math.*;
 
 public class PronicNumber {
     static boolean checkPronic(int n){
