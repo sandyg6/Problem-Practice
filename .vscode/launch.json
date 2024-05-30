@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PronicNumber",
+            "request": "launch",
+            "mainClass": "PronicNumber",
+            "projectName": "problem-solving_bddf01ec"
+        },
+        {
+            "type": "java",
             "name": "AbundantNumber",
             "request": "launch",
             "mainClass": "AbundantNumber",
