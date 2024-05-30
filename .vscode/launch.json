@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SternSeries",
+            "request": "launch",
+            "mainClass": "SternSeries",
+            "projectName": "problem-solving_bddf01ec"
+        },
+        {
+            "type": "java",
             "name": "EvenAndOdd",
             "request": "launch",
             "mainClass": "EvenAndOdd",
